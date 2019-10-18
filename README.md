@@ -43,7 +43,7 @@ vultr 现在有 16 个境外节点，选择一个离你最近的就好了。
 
 ![vultr服务器位置](https://wistbean.github.io/images/vultr02.png)
 
-### 选择服务器的系统类型，选择 CentOS 版本：
+### 选择服务器的系统类型，请选择 CentOS 7 x64 版本：
 
 ![vultr系统类型](https://wistbean.github.io/images/vultr03.png)
 
